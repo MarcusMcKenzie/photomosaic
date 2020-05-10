@@ -8,7 +8,7 @@ MATLAB
 ## Results
 
 ##### Input Images
-klembkemt
+<br/> <img src="Pictures/overlapping_mural.png" alt="final" width="200"/> center center
 
 ##### Output Photomosaic Image
-erjvnervm
+<br/> <img src="Pictures/photomosaic.png" alt="final" width="200"/> center center
