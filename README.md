@@ -8,7 +8,7 @@ MATLAB
 ## Results
 
 ##### Input Images
-<br/> <img src="Pictures/Mural/overlapping_mural.png" alt="final" width="600"/> 
+<br/> <img src="Pictures/overlapping_mural.png" alt="final" width="600"/> 
 
 ##### Output Photomosaic Image
 <br/> <img src="Pictures/photomosaic.png" alt="final" width="600"/> 
