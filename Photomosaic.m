@@ -157,7 +157,6 @@ for i = 1:numImages
     panorama = step(blender, panorama, warpedImage,mask);
     %panorama = [panorama,warpedImage];
     
-    
 end
 %panorama = imresize(panorama,[600 450]);
 
