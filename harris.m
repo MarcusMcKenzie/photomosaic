@@ -31,7 +31,6 @@ function [varargout] = harris(I,varargin)
 %                         originally proposed by Harris
 %  'fft'           N/A    perform smoothing filtering in freqeuncey
 %                         domain, o.w. perform in spatial domain (default)
-%
 %  OPTIONAL OUTPUT:
 %  (y,x) are the row/column locations of interest points
 %  M is the corner response function value associated with that point
